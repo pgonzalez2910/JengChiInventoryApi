@@ -171,3 +171,4 @@ C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.pdb
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.genruntimeconfig.cache
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\ref\JengChiInventoryApi.dll
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.sourcelink.json
+C:\JengChi\JengChiInventoryApi\bin\Debug\net8.0\JengChiInventoryApi.staticwebassets.runtime.json

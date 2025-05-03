@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\1001.jpg",
+      "PackagePath": "staticwebassets\\Images\\1001.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\1002.jpg",
+      "PackagePath": "staticwebassets\\Images\\1002.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\1003.jpg",
+      "PackagePath": "staticwebassets\\Images\\1003.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\10x6x20.jpg",
+      "PackagePath": "staticwebassets\\Images\\10x6x20.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\12x7x23.jpg",
+      "PackagePath": "staticwebassets\\Images\\12x7x23.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\13gallon.jpg",
+      "PackagePath": "staticwebassets\\Images\\13gallon.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\16ozcup.jpg",
+      "PackagePath": "staticwebassets\\Images\\16ozcup.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\16ozlid.jpg",
+      "PackagePath": "staticwebassets\\Images\\16ozlid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\1ozcup.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ozcup.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\1ozlids.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ozlids.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\2ozcups.jpg",
+      "PackagePath": "staticwebassets\\Images\\2ozcups.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\2ozlids.jpg",
+      "PackagePath": "staticwebassets\\Images\\2ozlids.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\4150shrimp.jpg",
+      "PackagePath": "staticwebassets\\Images\\4150shrimp.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\8x4x16.jpg",
+      "PackagePath": "staticwebassets\\Images\\8x4x16.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\8x8x1.jpg",
+      "PackagePath": "staticwebassets\\Images\\8x8x1.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\aa.jpg",
+      "PackagePath": "staticwebassets\\Images\\aa.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\aaa.jpg",
+      "PackagePath": "staticwebassets\\Images\\aaa.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\acid.jpg",
+      "PackagePath": "staticwebassets\\Images\\acid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\adolphous.jpg",
+      "PackagePath": "staticwebassets\\Images\\adolphous.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\airspray.jpg",
+      "PackagePath": "staticwebassets\\Images\\airspray.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\alltrump.jpg",
+      "PackagePath": "staticwebassets\\Images\\alltrump.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\babybambo.jpg",
+      "PackagePath": "staticwebassets\\Images\\babybambo.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bamboosliced.jpg",
+      "PackagePath": "staticwebassets\\Images\\bamboosliced.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bamboostrip.jpg",
+      "PackagePath": "staticwebassets\\Images\\bamboostrip.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bean.jpg",
+      "PackagePath": "staticwebassets\\Images\\bean.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\beefflanksteak.jpg",
+      "PackagePath": "staticwebassets\\Images\\beefflanksteak.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\beefshank.jpg",
+      "PackagePath": "staticwebassets\\Images\\beefshank.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\beetpowder.jpg",
+      "PackagePath": "staticwebassets\\Images\\beetpowder.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bill.pdf",
+      "PackagePath": "staticwebassets\\Images\\bill.pdf"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bleach.jpg",
+      "PackagePath": "staticwebassets\\Images\\bleach.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\blue.jpg",
+      "PackagePath": "staticwebassets\\Images\\blue.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\bluesugar.jpg",
+      "PackagePath": "staticwebassets\\Images\\bluesugar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\broccoli.jpg",
+      "PackagePath": "staticwebassets\\Images\\broccoli.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\carrot.jpg",
+      "PackagePath": "staticwebassets\\Images\\carrot.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\carrotpowder.jpg",
+      "PackagePath": "staticwebassets\\Images\\carrotpowder.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\cashew.jpg",
+      "PackagePath": "staticwebassets\\Images\\cashew.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chickenbone.jpg",
+      "PackagePath": "staticwebassets\\Images\\chickenbone.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chickenbreast.jpg",
+      "PackagePath": "staticwebassets\\Images\\chickenbreast.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chickenlegmeat.jpg",
+      "PackagePath": "staticwebassets\\Images\\chickenlegmeat.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chiligarlicsauce.jpg",
+      "PackagePath": "staticwebassets\\Images\\chiligarlicsauce.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chiliring.jpg",
+      "PackagePath": "staticwebassets\\Images\\chiliring.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chineseeggplant.jpg",
+      "PackagePath": "staticwebassets\\Images\\chineseeggplant.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chopstick.jpg",
+      "PackagePath": "staticwebassets\\Images\\chopstick.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\chxlegmeat.jpg",
+      "PackagePath": "staticwebassets\\Images\\chxlegmeat.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\clorox.jpg",
+      "PackagePath": "staticwebassets\\Images\\clorox.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\clove.jpg",
+      "PackagePath": "staticwebassets\\Images\\clove.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\coconutmilk.jpg",
+      "PackagePath": "staticwebassets\\Images\\coconutmilk.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\condesate.jpg",
+      "PackagePath": "staticwebassets\\Images\\condesate.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\cornstrach.jpg",
+      "PackagePath": "staticwebassets\\Images\\cornstrach.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\curry.jpg",
+      "PackagePath": "staticwebassets\\Images\\curry.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\dawn.jpg",
+      "PackagePath": "staticwebassets\\Images\\dawn.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\dbateries.jpg",
+      "PackagePath": "staticwebassets\\Images\\dbateries.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\delisheet.jpg",
+      "PackagePath": "staticwebassets\\Images\\delisheet.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\driedanisse.jpg",
+      "PackagePath": "staticwebassets\\Images\\driedanisse.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\driedblackbeans.jpg",
+      "PackagePath": "staticwebassets\\Images\\driedblackbeans.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\driedclove.jpg",
+      "PackagePath": "staticwebassets\\Images\\driedclove.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\driedsweeded.jpg",
+      "PackagePath": "staticwebassets\\Images\\driedsweeded.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\duckheadless.jpg",
+      "PackagePath": "staticwebassets\\Images\\duckheadless.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ducksauce.jpg",
+      "PackagePath": "staticwebassets\\Images\\ducksauce.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\fabuloso.jpg",
+      "PackagePath": "staticwebassets\\Images\\fabuloso.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\floorcleaner.jpg",
+      "PackagePath": "staticwebassets\\Images\\floorcleaner.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\fork.jpg",
+      "PackagePath": "staticwebassets\\Images\\fork.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\freshmint.jpg",
+      "PackagePath": "staticwebassets\\Images\\freshmint.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\frillpicks.jpg",
+      "PackagePath": "staticwebassets\\Images\\frillpicks.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\fryoil.jpg",
+      "PackagePath": "staticwebassets\\Images\\fryoil.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\fullpanlids.jpg",
+      "PackagePath": "staticwebassets\\Images\\fullpanlids.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\fullpantray1.jpg",
+      "PackagePath": "staticwebassets\\Images\\fullpantray1.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\gallon.jpg",
+      "PackagePath": "staticwebassets\\Images\\gallon.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\garlicflakes.jpg",
+      "PackagePath": "staticwebassets\\Images\\garlicflakes.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\garlicminced.jpg",
+      "PackagePath": "staticwebassets\\Images\\garlicminced.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\gelatine.jpg",
+      "PackagePath": "staticwebassets\\Images\\gelatine.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ginger.jpg",
+      "PackagePath": "staticwebassets\\Images\\ginger.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\greenbeans.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenbeans.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\greenbellpepper.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenbellpepper.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\greencabbage.jpg",
+      "PackagePath": "staticwebassets\\Images\\greencabbage.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\greenonions.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenonions.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\hairnet.jpg",
+      "PackagePath": "staticwebassets\\Images\\hairnet.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\halfpanlid.jpg",
+      "PackagePath": "staticwebassets\\Images\\halfpanlid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\halfpantray.jpg",
+      "PackagePath": "staticwebassets\\Images\\halfpantray.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\handsoap.jpg",
+      "PackagePath": "staticwebassets\\Images\\handsoap.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\happyface8x8x1.jpg",
+      "PackagePath": "staticwebassets\\Images\\happyface8x8x1.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\heavyallumium.jpg",
+      "PackagePath": "staticwebassets\\Images\\heavyallumium.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\hoisensauce.jpg",
+      "PackagePath": "staticwebassets\\Images\\hoisensauce.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\hoisensaucecan.jpg",
+      "PackagePath": "staticwebassets\\Images\\hoisensaucecan.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\hothotbar.jpg",
+      "PackagePath": "staticwebassets\\Images\\hothotbar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\idaho.jpg",
+      "PackagePath": "staticwebassets\\Images\\idaho.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\jalapeno.jpg",
+      "PackagePath": "staticwebassets\\Images\\jalapeno.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\jazminetea.jpg",
+      "PackagePath": "staticwebassets\\Images\\jazminetea.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\jengchilogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\jengchilogo.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ketchup.jpg",
+      "PackagePath": "staticwebassets\\Images\\ketchup.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\kikoman.jpg",
+      "PackagePath": "staticwebassets\\Images\\kikoman.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\kingarthur.jpg",
+      "PackagePath": "staticwebassets\\Images\\kingarthur.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\kirkland.jpg",
+      "PackagePath": "staticwebassets\\Images\\kirkland.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\kokuho.jpg",
+      "PackagePath": "staticwebassets\\Images\\kokuho.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ladyallen.jpg",
+      "PackagePath": "staticwebassets\\Images\\ladyallen.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\lamb.jpg",
+      "PackagePath": "staticwebassets\\Images\\lamb.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\largeeggs.jpg",
+      "PackagePath": "staticwebassets\\Images\\largeeggs.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\largeglove.jpg",
+      "PackagePath": "staticwebassets\\Images\\largeglove.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\lemon.jpg",
+      "PackagePath": "staticwebassets\\Images\\lemon.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\lime.jpg",
+      "PackagePath": "staticwebassets\\Images\\lime.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\lowtemp.jpg",
+      "PackagePath": "staticwebassets\\Images\\lowtemp.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\maeploy.jpg",
+      "PackagePath": "staticwebassets\\Images\\maeploy.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\maggie.jpg",
+      "PackagePath": "staticwebassets\\Images\\maggie.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\maltose.jpg",
+      "PackagePath": "staticwebassets\\Images\\maltose.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mayo.jpg",
+      "PackagePath": "staticwebassets\\Images\\mayo.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mediumglove.jpg",
+      "PackagePath": "staticwebassets\\Images\\mediumglove.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\michu.jpg",
+      "PackagePath": "staticwebassets\\Images\\michu.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\Images\\mushroom.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mushroomsliced.jpg",
+      "PackagePath": "staticwebassets\\Images\\mushroomsliced.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mussel.jpg",
+      "PackagePath": "staticwebassets\\Images\\mussel.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\mustardsauce.jpg",
+      "PackagePath": "staticwebassets\\Images\\mustardsauce.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\napa.jpg",
+      "PackagePath": "staticwebassets\\Images\\napa.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\napkin.jpg",
+      "PackagePath": "staticwebassets\\Images\\napkin.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\nova350.jpg",
+      "PackagePath": "staticwebassets\\Images\\nova350.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\oblonglid.jpg",
+      "PackagePath": "staticwebassets\\Images\\oblonglid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\oblongtray.jpg",
+      "PackagePath": "staticwebassets\\Images\\oblongtray.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\orangeskin.jpg",
+      "PackagePath": "staticwebassets\\Images\\orangeskin.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\organicgreentea.jpg",
+      "PackagePath": "staticwebassets\\Images\\organicgreentea.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\panblaster.jpg",
+      "PackagePath": "staticwebassets\\Images\\panblaster.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\panda.jpg",
+      "PackagePath": "staticwebassets\\Images\\panda.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\paperbag2.jpg",
+      "PackagePath": "staticwebassets\\Images\\paperbag2.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\paperstraw.jpg",
+      "PackagePath": "staticwebassets\\Images\\paperstraw.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\pasta.jpg",
+      "PackagePath": "staticwebassets\\Images\\pasta.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\peacarrots.jpg",
+      "PackagePath": "staticwebassets\\Images\\peacarrots.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\peanut.jpg",
+      "PackagePath": "staticwebassets\\Images\\peanut.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\peeledgarlic.jpg",
+      "PackagePath": "staticwebassets\\Images\\peeledgarlic.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\persian.jpg",
+      "PackagePath": "staticwebassets\\Images\\persian.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\pickle.jpg",
+      "PackagePath": "staticwebassets\\Images\\pickle.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\pinksugar.jpg",
+      "PackagePath": "staticwebassets\\Images\\pinksugar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\pixi.jpg",
+      "PackagePath": "staticwebassets\\Images\\pixi.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\placeholder.txt",
+      "PackagePath": "staticwebassets\\Images\\placeholder.txt"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\plastic12.jpg",
+      "PackagePath": "staticwebassets\\Images\\plastic12.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\plastic18.jpg",
+      "PackagePath": "staticwebassets\\Images\\plastic18.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\plastic24.jpg",
+      "PackagePath": "staticwebassets\\Images\\plastic24.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\poly.jpg",
+      "PackagePath": "staticwebassets\\Images\\poly.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkbackskinless.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkbackskinless.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkbelly.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkbelly.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkccloin.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkccloin.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkeggroll.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkeggroll.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkfat.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkfat.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\porkskin.jpg",
+      "PackagePath": "staticwebassets\\Images\\porkskin.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\preserved.jpg",
+      "PackagePath": "staticwebassets\\Images\\preserved.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\quart.jpg",
+      "PackagePath": "staticwebassets\\Images\\quart.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\redbeans.jpg",
+      "PackagePath": "staticwebassets\\Images\\redbeans.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\redbellpepper.jpg",
+      "PackagePath": "staticwebassets\\Images\\redbellpepper.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\redfine.jpg",
+      "PackagePath": "staticwebassets\\Images\\redfine.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\redpeppercoarse.jpg",
+      "PackagePath": "staticwebassets\\Images\\redpeppercoarse.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ricestick.jpg",
+      "PackagePath": "staticwebassets\\Images\\ricestick.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ricetogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\ricetogo.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\rinseaid.jpg",
+      "PackagePath": "staticwebassets\\Images\\rinseaid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\ronybill.jpg",
+      "PackagePath": "staticwebassets\\Images\\ronybill.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\saladoil.jpg",
+      "PackagePath": "staticwebassets\\Images\\saladoil.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\salt.jpg",
+      "PackagePath": "staticwebassets\\Images\\salt.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\saltablack.jpg",
+      "PackagePath": "staticwebassets\\Images\\saltablack.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\saosing.jpg",
+      "PackagePath": "staticwebassets\\Images\\saosing.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\scallop.jpg",
+      "PackagePath": "staticwebassets\\Images\\scallop.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\scrubbinghandpadgreen6x9.jpg",
+      "PackagePath": "staticwebassets\\Images\\scrubbinghandpadgreen6x9.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\seatcover.jpg",
+      "PackagePath": "staticwebassets\\Images\\seatcover.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\sesamejam.jpg",
+      "PackagePath": "staticwebassets\\Images\\sesamejam.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\sesameoil.jpg",
+      "PackagePath": "staticwebassets\\Images\\sesameoil.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\sihuanpepper.jpg",
+      "PackagePath": "staticwebassets\\Images\\sihuanpepper.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\silwarepacket.jpg",
+      "PackagePath": "staticwebassets\\Images\\silwarepacket.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\siracha.jpg",
+      "PackagePath": "staticwebassets\\Images\\siracha.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\smallglove.jpg",
+      "PackagePath": "staticwebassets\\Images\\smallglove.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\solutioncl.jpg",
+      "PackagePath": "staticwebassets\\Images\\solutioncl.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\soup16.jpg",
+      "PackagePath": "staticwebassets\\Images\\soup16.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\soup32.jpg",
+      "PackagePath": "staticwebassets\\Images\\soup32.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\soup8.jpg",
+      "PackagePath": "staticwebassets\\Images\\soup8.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\soypastejepg.webp",
+      "PackagePath": "staticwebassets\\Images\\soypastejepg.webp"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\soysaucepackets.jpg",
+      "PackagePath": "staticwebassets\\Images\\soysaucepackets.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\spareribs.jpg",
+      "PackagePath": "staticwebassets\\Images\\spareribs.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\spinachpowder.jpg",
+      "PackagePath": "staticwebassets\\Images\\spinachpowder.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\spoon.jpg",
+      "PackagePath": "staticwebassets\\Images\\spoon.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\squid.jpg",
+      "PackagePath": "staticwebassets\\Images\\squid.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\staineless.jpg",
+      "PackagePath": "staticwebassets\\Images\\staineless.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\stainlessscrub.jpg",
+      "PackagePath": "staticwebassets\\Images\\stainlessscrub.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\starlightsmint.jpg",
+      "PackagePath": "staticwebassets\\Images\\starlightsmint.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\sugar.jpg",
+      "PackagePath": "staticwebassets\\Images\\sugar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\sweetcorn.jpg",
+      "PackagePath": "staticwebassets\\Images\\sweetcorn.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\tapioca.jpg",
+      "PackagePath": "staticwebassets\\Images\\tapioca.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\tealipton.jpg",
+      "PackagePath": "staticwebassets\\Images\\tealipton.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\tigershrimp.jpg",
+      "PackagePath": "staticwebassets\\Images\\tigershrimp.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\togo8.jpg",
+      "PackagePath": "staticwebassets\\Images\\togo8.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\toiletpaper.jpg",
+      "PackagePath": "staticwebassets\\Images\\toiletpaper.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\toiletseatcover.jpg",
+      "PackagePath": "staticwebassets\\Images\\toiletseatcover.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\totole.jpg",
+      "PackagePath": "staticwebassets\\Images\\totole.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\trashcanbag.jpg",
+      "PackagePath": "staticwebassets\\Images\\trashcanbag.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\urinal.jpg",
+      "PackagePath": "staticwebassets\\Images\\urinal.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\vegetable.jpg",
+      "PackagePath": "staticwebassets\\Images\\vegetable.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\wheatflour.jpg",
+      "PackagePath": "staticwebassets\\Images\\wheatflour.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\whitepepper.jpg",
+      "PackagePath": "staticwebassets\\Images\\whitepepper.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\whitesugar.jpg",
+      "PackagePath": "staticwebassets\\Images\\whitesugar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\whitevinegar.jpg",
+      "PackagePath": "staticwebassets\\Images\\whitevinegar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\wonton.jpg",
+      "PackagePath": "staticwebassets\\Images\\wonton.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\woodcoffestirrer.jpg",
+      "PackagePath": "staticwebassets\\Images\\woodcoffestirrer.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\worcestershire.jpg",
+      "PackagePath": "staticwebassets\\Images\\worcestershire.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\yellow.jpg",
+      "PackagePath": "staticwebassets\\Images\\yellow.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\yellowcandy.jpg",
+      "PackagePath": "staticwebassets\\Images\\yellowcandy.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\yellowonion.jpg",
+      "PackagePath": "staticwebassets\\Images\\yellowonion.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\yellowsugar.jpg",
+      "PackagePath": "staticwebassets\\Images\\yellowsugar.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\yeos.jpg",
+      "PackagePath": "staticwebassets\\Images\\yeos.jpg"
+    },
+    {
+      "Id": "C:\\JengChi\\JengChiInventoryApi\\wwwroot\\Images\\zuch.jpg",
+      "PackagePath": "staticwebassets\\Images\\zuch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JengChiInventoryApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JengChiInventoryApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JengChiInventoryApi.props",
+      "PackagePath": "build\\JengChiInventoryApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JengChiInventoryApi.props",
+      "PackagePath": "buildMultiTargeting\\JengChiInventoryApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JengChiInventoryApi.props",
+      "PackagePath": "buildTransitive\\JengChiInventoryApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
