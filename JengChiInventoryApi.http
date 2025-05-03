@@ -1,0 +1,4 @@
+@JengChiInventoryApi_HostAddress = http://192.168.5.237:5000
+
+GET {{JengChiInventoryApi_HostAddress}}/api/Products/barcode/1234567890123
+Accept: application/json
