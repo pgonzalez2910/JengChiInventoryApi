@@ -3,26 +3,20 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllers();
-builder.Services.AddDbContext<InventoryContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Register controller support
+builder.Services.AddControllers(); // << THIS LINE IS REQUIRED
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
-app.MapControllers();
+app.MapControllers(); // This requires AddControllers()
 
 app.Run();
