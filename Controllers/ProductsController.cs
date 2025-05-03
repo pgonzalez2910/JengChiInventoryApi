@@ -35,14 +35,18 @@ namespace JengChiInventoryApi.Controllers
             if (string.IsNullOrWhiteSpace(filename))
                 return BadRequest("Filename is required.");
 
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", filename + ".jpg");
+            var imageFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images");
 
-            if (!System.IO.File.Exists(filePath))
+            // Look for any file that starts with the name (any extension)
+            var file = Directory.GetFiles(imageFolder)
+                                .FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals(filename, StringComparison.OrdinalIgnoreCase));
+
+            if (file == null)
                 return NotFound("Image not found.");
 
-            var image = System.IO.File.ReadAllBytes(filePath);
-            return File(image, "image/jpeg");
+            var contentType = file.EndsWith(".png") ? "image/png" : "image/jpeg";
+            var image = System.IO.File.ReadAllBytes(file);
+            return File(image, contentType);
         }
-
     }
     }
