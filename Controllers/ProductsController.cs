@@ -32,10 +32,13 @@ namespace JengChiInventoryApi.Controllers
         [HttpGet("image")]
         public IActionResult GetImage(string filename)
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", filename + ".jpeg");
+            if (string.IsNullOrWhiteSpace(filename))
+                return BadRequest("Filename is required.");
+
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", filename + ".jpg");
 
             if (!System.IO.File.Exists(filePath))
-                return NotFound($"Image not found: {filePath}");
+                return NotFound("Image not found.");
 
             var image = System.IO.File.ReadAllBytes(filePath);
             return File(image, "image/jpeg");
