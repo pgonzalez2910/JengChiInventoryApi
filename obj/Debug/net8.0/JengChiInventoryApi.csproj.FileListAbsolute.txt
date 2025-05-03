@@ -170,3 +170,4 @@ C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\refint\JengChiInventoryApi.dll
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.pdb
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.genruntimeconfig.cache
 C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\ref\JengChiInventoryApi.dll
+C:\JengChi\JengChiInventoryApi\obj\Debug\net8.0\JengChiInventoryApi.sourcelink.json

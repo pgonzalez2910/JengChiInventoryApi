@@ -28,18 +28,18 @@ namespace JengChiInventoryApi.Controllers
         }
 
 
+
         [HttpGet("image")]
-        public IActionResult GetProductImage([FromQuery] string filename)
+        public IActionResult GetImage(string filename)
         {
-            var imagePath = Path.Combine(@"C:\JengChi\Product Image", filename);
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", filename + ".jpeg");
 
-            if (!System.IO.File.Exists(imagePath))
-                return NotFound();
+            if (!System.IO.File.Exists(filePath))
+                return NotFound($"Image not found: {filePath}");
 
-            var imageBytes = System.IO.File.ReadAllBytes(imagePath);
-            return File(imageBytes, "image/jpeg");
+            var image = System.IO.File.ReadAllBytes(filePath);
+            return File(image, "image/jpeg");
         }
-        // or "image/png" based on your files
 
     }
-}
+    }

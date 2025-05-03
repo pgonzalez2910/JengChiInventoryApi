@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Register controller support
 builder.Services.AddControllers(); // << THIS LINE IS REQUIRED
 
@@ -16,7 +17,12 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
 app.UseAuthorization();
 app.MapControllers(); // This requires AddControllers()
-
 app.Run();
+
+
+
+
+
