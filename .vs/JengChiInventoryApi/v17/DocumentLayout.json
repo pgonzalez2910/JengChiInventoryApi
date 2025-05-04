@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\JengChi\\JengChiInventoryApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|c:\\jengchi\\jengchiinventoryapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|c:\\jengchi\\jengchiinventoryapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|c:\\jengchi\\jengchiinventoryapi\\jengchiinventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|solutionrelative:jengchiinventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|c:\\jengchi\\jengchiinventoryapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92C1195D-3E51-4E9E-8D19-813F08274B9B}|JengChiInventoryApi.csproj|c:\\jengchi\\jengchiinventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:44:47.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T17:44:47.76Z"
             },
             {
               "$type": "Document",
@@ -79,38 +78,37 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-02T17:44:06.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T17:44:06.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\JengChi\\JengChiInventoryApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\JengChi\\JengChiInventoryApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv0sAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:47:41.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\JengChi\\JengChiInventoryApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\JengChi\\JengChiInventoryApi\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:42:13.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JengChiInventoryApi.csproj",
               "DocumentMoniker": "C:\\JengChi\\JengChiInventoryApi\\JengChiInventoryApi.csproj",
               "RelativeDocumentMoniker": "JengChiInventoryApi.csproj",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "JengChiInventoryApi.csproj",
               "ViewState": "AgIAAFACAAAAAAAAAAAgwHcCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T21:33:54.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T21:33:54.211Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "Data\\InventoryContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:43:29.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T17:43:29.381Z"
             },
             {
               "$type": "Document",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JengChiInventoryApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69574d74531fa676349c651b122ed96361324f8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e562a83766a344c681dff122604feae092b0fe25")]
 [assembly: System.Reflection.AssemblyProductAttribute("JengChiInventoryApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JengChiInventoryApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

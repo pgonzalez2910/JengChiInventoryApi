@@ -59,21 +59,26 @@ namespace JengChiInventoryApi.Controllers
         [HttpPost("update-onhand")]
         public IActionResult UpdateOnHand([FromBody] Product updatedProduct)
         {
+            Console.WriteLine($"Received: ItemNumber={updatedProduct.ItemNumber}, OnHand={updatedProduct.OnHand}");
+
             var normalizedItemNumber = updatedProduct.ItemNumber?.Trim();
 
             var product = _context.Products
-                .FirstOrDefault(p => p.ItemNumber.Trim() == normalizedItemNumber);
+                .AsEnumerable() // fetch in memory
+                .FirstOrDefault(p => p.ItemNumber?.Trim() == normalizedItemNumber);
 
             if (product == null)
-                return NotFound("Product not found.");
+                return NotFound($"Product not found: '{normalizedItemNumber}'");
 
             product.OnHand = updatedProduct.OnHand;
             _context.SaveChanges();
 
             return Ok("OnHand updated.");
+
         }
 
-        
+
+
         [HttpGet]
         public IActionResult GetAllProducts()
         {

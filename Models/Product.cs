@@ -25,7 +25,8 @@ namespace JengChiInventoryApi.Models
 
         public string? Barcode { get; set; }
 
-        public int? OnHand { get; set; }
+        public int? OnHand { get; set; } // Nullable int to accept updates
+
 
         public string? Department { get; set; }
     }
