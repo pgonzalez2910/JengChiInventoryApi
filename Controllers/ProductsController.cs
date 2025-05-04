@@ -17,14 +17,21 @@ namespace JengChiInventoryApi.Controllers
         }
 
         [HttpGet("barcode/{barcode}")]
-        public ActionResult<Product> GetProductByBarcode(string barcode)
+        public IActionResult GetProductByBarcode(string barcode)
         {
-            var product = _context.Products.FirstOrDefault(p => p.Barcode == barcode);
-            if (product == null)
+            try
             {
-                return NotFound();
+                var product = _context.Products.FirstOrDefault(p => p.Barcode == barcode);
+
+                if (product == null)
+                    return NotFound(new { message = $"No product found with barcode: {barcode}" });
+
+                return Ok(product);
             }
-            return product;
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = ex.Message });
+            }
         }
 
 
