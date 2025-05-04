@@ -1,8 +1,10 @@
-using JengChiInventoryApi.Data;
+
 using Microsoft.EntityFrameworkCore;
+using JengChiInventoryApi.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddDbContext<InventoryContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Register controller support
 builder.Services.AddControllers(); // << THIS LINE IS REQUIRED
