@@ -8,6 +8,7 @@ builder.Services.AddDbContext<InventoryContext>(options =>
 
 // Register controller support
 builder.Services.AddControllers(); // << THIS LINE IS REQUIRED
+builder.Configuration.AddEnvironmentVariables();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

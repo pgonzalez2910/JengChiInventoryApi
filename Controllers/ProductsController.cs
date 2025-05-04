@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using JengChiInventoryApi.Data;
 using JengChiInventoryApi.Models;
+
 using System.Linq;
 
 namespace JengChiInventoryApi.Controllers
@@ -58,7 +59,11 @@ namespace JengChiInventoryApi.Controllers
         [HttpPost("update-onhand")]
         public IActionResult UpdateOnHand([FromBody] Product updatedProduct)
         {
-            var product = _context.Products.FirstOrDefault(p => p.ItemNumber == updatedProduct.ItemNumber);
+            var normalizedItemNumber = updatedProduct.ItemNumber?.Trim();
+
+            var product = _context.Products
+                .FirstOrDefault(p => p.ItemNumber.Trim() == normalizedItemNumber);
+
             if (product == null)
                 return NotFound("Product not found.");
 
@@ -67,6 +72,8 @@ namespace JengChiInventoryApi.Controllers
 
             return Ok("OnHand updated.");
         }
+
+        
         [HttpGet]
         public IActionResult GetAllProducts()
         {

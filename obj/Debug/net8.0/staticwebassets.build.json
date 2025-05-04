@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3xoFD54PJ5FZc9Zby2zhVKX+Mud/nD7DI/cKP7+pgYQ=",
+  "Hash": "aOtcfqHuaKoXul3j5k2T8/Zakkl8Bj0JkbzaTGI+dE8=",
   "Source": "JengChiInventoryApi",
   "BasePath": "_content/JengChiInventoryApi",
   "Mode": "Default",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5d91db9yor",
       "Integrity": "V9FM1GtU/F6frKjw8xFxkrC+zxEODBvzmxy9rNdPaxo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\1001.jpg"
     },
@@ -54,7 +54,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "3hj05z62ha",
       "Integrity": "aSyL5g6EEXOrBbb1LZrbJVt2mOfrphsybK/LfKmOF2s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\1002.jpg"
     },
@@ -75,7 +75,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ur2t990pr6",
       "Integrity": "SmDy+Aw7GeMT/x/0+Jg6yjl04kjjVZh2JkXlGOj2Xxo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\1003.jpg"
     },
@@ -96,7 +96,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "smqkcy81qx",
       "Integrity": "1Negu0+1/5UMoUtvNp+AaUFg7M5cN3o0Vv6R41DIyxI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\10x6x20.jpg"
     },
@@ -117,7 +117,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "p759o8sxzf",
       "Integrity": "pbr94MmRShAqJhRbvpxyx+09sntsJPtuIml0fYPI3dc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\12x7x23.jpg"
     },
@@ -138,7 +138,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0rko9b916r",
       "Integrity": "9PuqDoLuVdWoL5ZEPMHdOEKZiMmjiaHCC3V9djhjPAw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\13gallon.jpg"
     },
@@ -159,7 +159,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "q0cxyp6vlf",
       "Integrity": "GkFOgEb3x9g7qKcVLKKp02OVLQqrJBnlA1BnUmlNsyg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\16ozcup.jpg"
     },
@@ -180,7 +180,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "3nvfyw0fjx",
       "Integrity": "7+9jdSDdua02DJgOKOfuiklMHr94UGHsuasN8L6cnbQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\16ozlid.jpg"
     },
@@ -201,7 +201,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "m7odx78zr3",
       "Integrity": "0jjUGf6EY+M60mLGVgXJTj90MWPwm/i2L52YOTXizmA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\1ozcup.jpg"
     },
@@ -222,7 +222,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "r1meft8j0v",
       "Integrity": "H6pScQkIcq9s3UCtja07M6ufdHw5vXLbcDxxlEOPIr8=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\1ozlids.jpg"
     },
@@ -243,7 +243,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "63jt2fpzo4",
       "Integrity": "4jPLK1r5PnIJKTxpLa+ighL/pGXzHKZnDHTsnsf1tt4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\2ozcups.jpg"
     },
@@ -264,7 +264,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "53yksc7s21",
       "Integrity": "kaVasepjA4MFyHOLf22fgN9sQCBv6aYwgz7TdNAF3IU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\2ozlids.jpg"
     },
@@ -285,7 +285,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "c40f5uksiw",
       "Integrity": "pLTHU29b6XPo+UbFPVFBaakwG91nnTrcH8cI0g/bB00=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\4150shrimp.jpg"
     },
@@ -306,7 +306,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "bdyl3vpzjk",
       "Integrity": "wU/r01bk2v6ypIFtd5Rnk6y6NxNjvKT/nIWgfggjE/c=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\8x4x16.jpg"
     },
@@ -327,7 +327,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "v6blaw1mz5",
       "Integrity": "GXqcgQnfz/GFX/NfEUDV7U+VvXfImK9LBpJdnPuCjaY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\8x8x1.jpg"
     },
@@ -348,7 +348,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "yvwl1lkoof",
       "Integrity": "vu4fHWb54BM1tPMUmYWSwPTKc/0tLc+eqc5sEsL8J0E=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\aa.jpg"
     },
@@ -369,7 +369,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ywhmgk4pf0",
       "Integrity": "zptxqYvwhwjUYUQ+isWtGbsvS82ey6QY/W8E2PU3/t0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\aaa.jpg"
     },
@@ -390,7 +390,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "o4tmq3c8nb",
       "Integrity": "CL1L6h/hidSHZpVcWFsRlwOI4OmWFifZ4atJuwh/sHY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\acid.jpg"
     },
@@ -411,7 +411,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "q1xyrvkjm3",
       "Integrity": "Mk1b4yx10pT9G58R8iQWq6YR3Cq0EG4zDO48eultg2o=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\adolphous.jpg"
     },
@@ -432,7 +432,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "edo3mhsqcw",
       "Integrity": "3mcwH7Amid7VA2Snoi8JjqDetHpexTb9X8YpseuZB9s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\airspray.jpg"
     },
@@ -453,7 +453,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "nfr965jg94",
       "Integrity": "Ix2xeeVZx0oGqb7fLFb2s2X3NSo3RkSiB2slydZwt3w=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\alltrump.jpg"
     },
@@ -474,7 +474,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xpbm9oslvn",
       "Integrity": "KxKuer8pre6iRm52rc/IzlliwxiFC/cXax8b/rp7Pjo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\babybambo.jpg"
     },
@@ -495,7 +495,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "iu15cm1ggq",
       "Integrity": "ZrPjGzmWeJWLv6FjwLgN8muGjRGR5/WS5sG2lQI0Q40=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bamboosliced.jpg"
     },
@@ -516,7 +516,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "o24p82opxy",
       "Integrity": "IA+Vp8AaNgmqYMZXyZcgpeI8y7r/Yj9jBsOWEmYyPao=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bamboostrip.jpg"
     },
@@ -537,7 +537,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "pbyu5oto92",
       "Integrity": "RV5RiA45xOBd375v3sq2TCghFspweFxxQpRVCXxSnp0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bean.jpg"
     },
@@ -558,7 +558,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "bsoohyed24",
       "Integrity": "hdOSJhTTtDXYwm9GQPZVl5rmZaumQJV0DKqVP8gtVTM=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\beefflanksteak.jpg"
     },
@@ -579,7 +579,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "vsl42fslow",
       "Integrity": "odrAhYVB3uKHtsrZG7xYY75ppcuBmZEqkpcwmldGFDo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\beefshank.jpg"
     },
@@ -600,7 +600,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xxvabz792a",
       "Integrity": "yzimCSjl12GiY5xd8rhe/CTgGmVQouK5WJMHRLzWmzA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\beetpowder.jpg"
     },
@@ -621,7 +621,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "nbyw2j3r0t",
       "Integrity": "PSzJEBmygKSXZ7O0XOVyC8fZS0iPFxkcc7Hf6eN/LuI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bill.pdf"
     },
@@ -642,7 +642,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "7o95i8qr7h",
       "Integrity": "yW2m0ROxWEP+1x2yODepDZut/6RSAmhZN+JYS4wztew=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bleach.jpg"
     },
@@ -663,7 +663,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wfy4wk5403",
       "Integrity": "XMesrXwROP9sI18M/zuE+wvbuud5Q6C9YSChd0PuPTY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\blue.jpg"
     },
@@ -684,7 +684,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ruovi2sda7",
       "Integrity": "kyleouiQqQYK0cYKiopF3ZwpzBRCfKqIqhBInkkG7Ys=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\bluesugar.jpg"
     },
@@ -705,7 +705,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "oglgppgt1j",
       "Integrity": "qM3BQXLPJj9X1CYIFg1B0xvQAABvKq3ih5FAKkYQmI4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\broccoli.jpg"
     },
@@ -726,7 +726,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "c33m6blgy6",
       "Integrity": "2CQnWvxeGfXnGdGbwjCij0wo+X82jl0kMrPpHlDGra4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\carrot.jpg"
     },
@@ -747,7 +747,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "2f32vqeite",
       "Integrity": "MvvWrifh1BCZb96ZQpPso7Pivdxlk1OuaFa+Ry+KciA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\carrotpowder.jpg"
     },
@@ -768,7 +768,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "udx8sl0yfj",
       "Integrity": "/hTtNongReTg6XjtSGELFZP+OrWIaol7Q4GK1HEX/P4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\cashew.jpg"
     },
@@ -789,7 +789,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "6as6bvn1rm",
       "Integrity": "rku0q5tOatdD+1mIl8wNu6BEuXsP/XKK8CujkEwZJJo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chickenbone.jpg"
     },
@@ -810,7 +810,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "nkrq26f92y",
       "Integrity": "6adNkByrWWTQ1yxmHZdkqvRwfbDRLcrNQWEn3CLUYzY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chickenbreast.jpg"
     },
@@ -831,7 +831,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wxot8atzxl",
       "Integrity": "fNwWtRm5acOXTiaDmJHaCerFjhdIUZOXh0lHV7Z10j4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chickenlegmeat.jpg"
     },
@@ -852,7 +852,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "132qhaqq3g",
       "Integrity": "Dcbt3I4u/bxmCeDJABJB8dNu8pCU//2M/rK9EouF2Sg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chiligarlicsauce.jpg"
     },
@@ -873,7 +873,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hilois0etz",
       "Integrity": "F7sm+dTRJJXt//OOpIXSMn2uwN1jrlKHJUun5zkdJuI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chiliring.jpg"
     },
@@ -894,7 +894,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hew4spv39e",
       "Integrity": "9zLmBJA0d36k/ngZqCULYN349P8CyRix7h4GMGzpkYU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chineseeggplant.jpg"
     },
@@ -915,7 +915,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "aotv22z06l",
       "Integrity": "+mFYiHxrGjZYPgh3w2cscNn4fZgfcXU741PKqnVxJuU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chopstick.jpg"
     },
@@ -936,7 +936,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "irnqsxf4uh",
       "Integrity": "MlWzYVSleXbgqC+cgqdJaZFVDXQa7w5NBirZCVMPrrw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\chxlegmeat.jpg"
     },
@@ -957,7 +957,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "92jk2sjy5x",
       "Integrity": "f4AI2qsuVN+gSCOZV0dN1UVKaecBR4A8+oUPSxC75/A=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\clorox.jpg"
     },
@@ -978,7 +978,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "q83gnr39ci",
       "Integrity": "aqfJ1ZuOUXIOLF3qQ25MQ7oYjHshl4wPH/tg/T4cfsY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\clove.jpg"
     },
@@ -999,7 +999,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "46alsmacre",
       "Integrity": "vHrb88FVYqxktOnHs5ULD5bo3sBJHt5xkPOdCyER7gU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\coconutmilk.jpg"
     },
@@ -1020,7 +1020,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xhu4hwutug",
       "Integrity": "mzv1VQdsM6+OKireA1IZHLi5PwdSK+J6lcj2V903Nbc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\condesate.jpg"
     },
@@ -1041,7 +1041,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "i4e74r7dzt",
       "Integrity": "vjybLyXhUnn7mEYQF6Rpi0bAS6rLAdJVaqEbkKxPHvU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\cornstrach.jpg"
     },
@@ -1062,7 +1062,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "1z0vivvr4v",
       "Integrity": "rfRwdoXuMvd712rCAKjj6h6GjKvYs/WMDaWczV8aJ/I=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\curry.jpg"
     },
@@ -1083,7 +1083,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "h2iih8um47",
       "Integrity": "B6OMJWIx22u7Uc1exgMOCF3REjIv3S5PIGx6J/vHjyI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\dawn.jpg"
     },
@@ -1104,7 +1104,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "1qma6p40lb",
       "Integrity": "iZuoL7j9vOIj+b3ZKbXN7uaMxx0uQ2yf+kTXJYZQth4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\dbateries.jpg"
     },
@@ -1125,7 +1125,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "eqkku3jc37",
       "Integrity": "9p/XQSnrBuAFWcL/a17Q+2DGy55dMlOSmeHyI8wgl/0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\delisheet.jpg"
     },
@@ -1146,7 +1146,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "x3x6qwtwgw",
       "Integrity": "42jvtkSk3JqzTLcZncXColxxUz7IriAXxfb7BqkpoDM=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\driedanisse.jpg"
     },
@@ -1167,7 +1167,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ud4m313q8y",
       "Integrity": "svZGcPGTP49U6p80Q6XqYmBuS97/3lhd3JKF59I/H5w=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\driedblackbeans.jpg"
     },
@@ -1188,7 +1188,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "q83gnr39ci",
       "Integrity": "aqfJ1ZuOUXIOLF3qQ25MQ7oYjHshl4wPH/tg/T4cfsY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\driedclove.jpg"
     },
@@ -1209,7 +1209,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "dkzrjhyggb",
       "Integrity": "MxxQmoR8IgGnz7XB081EF3WiduBf32HHzCPQ5uZFIWw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\driedsweeded.jpg"
     },
@@ -1230,7 +1230,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "vnh9tq0rhr",
       "Integrity": "VZnvzrBUrIbX3PfOZZSflZacB0KbLJNcuiKN43DYjTk=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\duckheadless.jpg"
     },
@@ -1251,7 +1251,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "tw3faedh3g",
       "Integrity": "jRPpCBctgYNZ9/HBdUuMCVhQyEHhDOqL+LZN8f+MzUY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ducksauce.jpg"
     },
@@ -1272,7 +1272,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "6vfd6cijst",
       "Integrity": "kudADD1naDACdW50m2yEyzJPohkxyEzsc9tLDa13VK0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\fabuloso.jpg"
     },
@@ -1293,7 +1293,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "6n5ma3qgmu",
       "Integrity": "7mN2+ex+gxyNRDNrCKPSpkOeXwM8c4OolYVHa1Qh/bc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\floorcleaner.jpg"
     },
@@ -1314,7 +1314,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "263p8wifmo",
       "Integrity": "trsBgm/KTKX3HIa5vEl5xxzp7/2M9Ugr1m5oP8SD8hU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\fork.jpg"
     },
@@ -1335,7 +1335,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "vkjj6sphfg",
       "Integrity": "IZB0HBZM8yK6Dk0EzJbjRPSBXPEJQCLNEW/AK/dWepE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\freshmint.jpg"
     },
@@ -1356,7 +1356,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "g2mkch93dj",
       "Integrity": "uGziUbzotzYI3D+C4pAOFb87qUDDhf7z/BgRj8x235E=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\frillpicks.jpg"
     },
@@ -1377,7 +1377,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "z8uczec0ey",
       "Integrity": "I9/pXd3PLTNYV4oKCpigNivpboFXnz5BL8PjFv587SA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\fryoil.jpg"
     },
@@ -1398,7 +1398,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "fzmbdgo98r",
       "Integrity": "5YkCkknnccrLoenpaS/blnnusZVdP49JhJesSo2mZws=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\fullpanlids.jpg"
     },
@@ -1419,7 +1419,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "z1x6ybsthj",
       "Integrity": "11oBGCz7+c02GjGYUTOKY6G9vI56jqKRq5Jj+IcHbHw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\fullpantray1.jpg"
     },
@@ -1440,7 +1440,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "pa4vnb8jmx",
       "Integrity": "fxWWitWFFxXvYwOn7h1fMDXANv4fGLITIAoqw9kygko=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\gallon.jpg"
     },
@@ -1461,7 +1461,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "2ry3qponbz",
       "Integrity": "rnAP5t62D/N1o73EWZpl5Lr1yF6l4n6RRbHwx8gLW+k=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\garlicflakes.jpg"
     },
@@ -1482,7 +1482,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0c1ldftvzz",
       "Integrity": "AK3GTldFBlbbEnACEqckGBvp1yV+iG+uLIvGX8Ds8II=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\garlicminced.jpg"
     },
@@ -1503,7 +1503,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "r3ax0mgeb9",
       "Integrity": "Z0npI9o52fVA3iCQNWrRWjIPo4H45c7AuPNs7IRUW0w=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\gelatine.jpg"
     },
@@ -1524,7 +1524,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "txydyxrc40",
       "Integrity": "ISim7qgHWABLcfjDbtOeEKpreD9+wdElmvbtfTKTWtc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ginger.jpg"
     },
@@ -1545,7 +1545,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "qcjy5fwmto",
       "Integrity": "higfMxdI9sXwb4RQjRz0Ry3FfAkg+7cNrfKR0syYj0o=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\greenbeans.jpg"
     },
@@ -1566,7 +1566,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "8n72coms0d",
       "Integrity": "zCD9wralV1DssrBGBV5snWCnhN3skw/iXxnu7NRz8TI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\greenbellpepper.jpg"
     },
@@ -1587,7 +1587,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "k35w4o0f5q",
       "Integrity": "MHpAAsyFSrD9jYBK9er8akiY8t3rg2oIuFw3zcHG2s8=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\greencabbage.jpg"
     },
@@ -1608,7 +1608,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "9xfsorlnxp",
       "Integrity": "nbMzJtYowLFWy1ZgI/DNDDDq2oZgumJgl7Qy/vxt0xk=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\greenonions.jpg"
     },
@@ -1629,7 +1629,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xd95l1habo",
       "Integrity": "xSfiMXHl+u03/3o72ubZRUnN4ll5pD8ErH1DXQZN2zY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\hairnet.jpg"
     },
@@ -1650,7 +1650,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "w608e5cm2q",
       "Integrity": "CAsmjXducLuA2B1h2vo1QiVX+mSHwwrQlqJXie/BgLg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\halfpanlid.jpg"
     },
@@ -1671,7 +1671,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "yrgqj1o3pu",
       "Integrity": "bq4JI7Wr7BRbuYN3tRaEJox3aXTYfm8UO2H2PpMNPGY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\halfpantray.jpg"
     },
@@ -1692,7 +1692,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hd3v01ek0z",
       "Integrity": "K1njNrtimzOmNNLJ9ZXE0l7qXzecO8KIn7G08BazrSc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\handsoap.jpg"
     },
@@ -1713,7 +1713,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "uapmn8fx7v",
       "Integrity": "lvAdcm46ECJopfVD764Ul8d/SljWuGiF7tK5q4So0Pg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\happyface8x8x1.jpg"
     },
@@ -1734,7 +1734,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "jzbna9o1sj",
       "Integrity": "kZWPY8TlyfvAv356Ybl2D6rTpo/wmV2R/I7fuy0LVWs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\heavyallumium.jpg"
     },
@@ -1755,7 +1755,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "g2grn77e54",
       "Integrity": "GG2RCfU3aDxjoc30Zn0mhszLUJHCnUBwPzXDq6i8I5Y=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\hoisensauce.jpg"
     },
@@ -1776,7 +1776,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wpwd4stums",
       "Integrity": "HFV/GS4dQefOahYcn+FLRwv38xmiS32Cq33AA4LHvQE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\hoisensaucecan.jpg"
     },
@@ -1797,7 +1797,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "yyodoiecp1",
       "Integrity": "VsBUXN4Co6fSeJMI2Kuqv7oDOBulKAtGStd4JTyzD04=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\hothotbar.jpg"
     },
@@ -1818,7 +1818,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "dkyc18tutb",
       "Integrity": "A7X+cgOVDFzOObfafQSs7mTfbHtkXh0QPwBLPVVUVPk=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\idaho.jpg"
     },
@@ -1839,7 +1839,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "eqteenlprd",
       "Integrity": "+ld6838AFeGOcpi33ffBumnZBFCrcvU1nVdKY6mRIkw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\jalapeno.jpg"
     },
@@ -1860,7 +1860,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "15yq0cnyhm",
       "Integrity": "qzDFGxWzAgGGICp/KduEbU7ybMHS4OG33+W4caAK7a0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\jazminetea.jpg"
     },
@@ -1881,7 +1881,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hw746z80qh",
       "Integrity": "/0xICP5f+rr8PJKIAIdImuruX70OLUzFWNN2qPvwKQs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\jengchilogo.jpg"
     },
@@ -1902,7 +1902,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "861icud6np",
       "Integrity": "kBW8QN7RpYnBBgeNVMEhAcBqYzMwVQudNzbWmgOvpmI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ketchup.jpg"
     },
@@ -1923,7 +1923,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "63shvc1fct",
       "Integrity": "jlgUdOgSdsi06dCUkrvtYPtDxX8qFnD1sTHXdNXYydU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\kikoman.jpg"
     },
@@ -1944,7 +1944,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "85hliu5rtc",
       "Integrity": "9BsrW5lZNFH+F2/LclVDe5p+bDKSIwtv8evkODG/qQE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\kingarthur.jpg"
     },
@@ -1965,7 +1965,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hli23w78pj",
       "Integrity": "pZ2TB82mCf9VwI6bUXmD62pSpQWJ7cT4/OkEyuB9Jgo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\kirkland.jpg"
     },
@@ -1986,7 +1986,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "w9a8re1z8h",
       "Integrity": "BKl8nugMDwoQnZSYrmDC0wFTvzCmOMFsDPC5rKEXbM4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\kokuho.jpg"
     },
@@ -2007,7 +2007,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5b8zyasyny",
       "Integrity": "L+ELCe4jK52YqCVkTnA/Q40fTX0YS6EPuhPB/3Q0LQw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ladyallen.jpg"
     },
@@ -2028,7 +2028,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "tmx1t7p0uw",
       "Integrity": "hanJ+q8gX/5MDvrMU/oJJiGi2pHwK0F6zAxYogZouwY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\lamb.jpg"
     },
@@ -2049,7 +2049,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "9v5ca0ccof",
       "Integrity": "S03TNy/bZeXT4vXhOQrFfvUVhVoPTdi0GzZnkuJ5aSM=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\largeeggs.jpg"
     },
@@ -2070,7 +2070,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "2vgbp78tkd",
       "Integrity": "Hh8xDKo2DnNh+8NOYeUS0LuadlUuHZfaquKXPEdHjn0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\largeglove.jpg"
     },
@@ -2091,7 +2091,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "9iyzizji16",
       "Integrity": "j/g8L31eDN2DPwYJiFQ/LhjQD0+hQckN+9uDHdmqIXQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\lemon.jpg"
     },
@@ -2112,7 +2112,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "9yuugtlsg5",
       "Integrity": "Mewz1Kk4EqNvdimO1BnqRaDPd9H6JSjTwS5lvE+EN4s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\lime.jpg"
     },
@@ -2133,7 +2133,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "m05lw0sqni",
       "Integrity": "WpO1M4lOWUigkzQxddnqu4hOeniN01GOc0QmhisFP8s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\lowtemp.jpg"
     },
@@ -2154,7 +2154,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "r749z4t3k7",
       "Integrity": "aV8+ydLAx2i6bJ+rdPZNOrDpLM2hyw6ihrsm7nODCI4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\maeploy.jpg"
     },
@@ -2175,7 +2175,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "jfyangwepu",
       "Integrity": "zwPKgNPTqw4wlS+ytJqKJcX0PVJOkFTzuQmVQacwNMY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\maggie.jpg"
     },
@@ -2196,7 +2196,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hg8h7oyx0t",
       "Integrity": "EWxJZCqZbNFlsNpWKPiQvW/MYnZoqKKzMK3njiW2q8U=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\maltose.jpg"
     },
@@ -2217,7 +2217,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "20o5kh93a2",
       "Integrity": "Pi+yQc3JzPv0xlor7PYnA68uuRAvTG6BQFJu+4Vt42U=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mayo.jpg"
     },
@@ -2238,7 +2238,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "s499393v5c",
       "Integrity": "fC0/kLMq8pFSIGIEZsxhP21MVLHsezSsDJS2iIOFfKs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mediumglove.jpg"
     },
@@ -2259,7 +2259,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "2w7j7o3usn",
       "Integrity": "siUhSKfvWbQnqm56aMyX4wG5bBblpLmEoiTaSBTX0og=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\michu.jpg"
     },
@@ -2280,7 +2280,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "st6ni5x625",
       "Integrity": "sGfAj9WEmGKEiKxWKOQHPKdGghk5ceNT5LKo2lufnJE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mushroom.jpg"
     },
@@ -2301,7 +2301,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "4mdyumt4vt",
       "Integrity": "lMCrrNzZqUmiw/nx+eyb2NA1WLC+gINrSY4DuU5/lks=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mushroomsliced.jpg"
     },
@@ -2322,7 +2322,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "89uf4q215h",
       "Integrity": "7NK7YS8U7NpKoD12e/wbC5XPSg7UDGi2LRsxVhuQPR8=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mussel.jpg"
     },
@@ -2343,7 +2343,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ggkw7zfgqw",
       "Integrity": "kPK+hiVlM9sCaYumtA/9Nqq0tofqhDjh7XCe/ZnJEnQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mustardsauce.jpg"
     },
@@ -2364,7 +2364,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "b5l5g1o3d2",
       "Integrity": "sREuXUPacieG5gDAEEQqFt+jaUBgB4eMMN9QbyjC2JQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\napa.jpg"
     },
@@ -2385,7 +2385,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "tieevh2u0x",
       "Integrity": "BUSX04UtwWwbOkklJEIx/kp8W+QCpEK3AgdXOnJhCRw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\napkin.jpg"
     },
@@ -2406,7 +2406,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xbxxjmu8oz",
       "Integrity": "A+5M3xaPvevPihOFIy5JySSG+b4CVJK3nLe36TpLdxo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\nova350.jpg"
     },
@@ -2427,7 +2427,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "83m54ci8sa",
       "Integrity": "FFO/c4g8u/xBgXq2inyvdmUeq/UtG3RDpjZIP3nH77g=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\oblonglid.jpg"
     },
@@ -2448,7 +2448,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "xljq77zadl",
       "Integrity": "O4ewQ3WxmeyQtRYgHr7Ap8skgYEuYiQ1jvR7E9KvxDI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\oblongtray.jpg"
     },
@@ -2469,7 +2469,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "eaacgx6910",
       "Integrity": "FpONlbMUwvgGrnaZmSZ7qvhh/uKs1+dN+sOwRPude9A=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\orangeskin.jpg"
     },
@@ -2490,7 +2490,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "dyl7o72nuy",
       "Integrity": "GyEtcfZL8PieA1UUDjS6g+j0gU2qxLKTstsB/vIB0ng=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\organicgreentea.jpg"
     },
@@ -2511,7 +2511,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5d91db9yor",
       "Integrity": "V9FM1GtU/F6frKjw8xFxkrC+zxEODBvzmxy9rNdPaxo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\panblaster.jpg"
     },
@@ -2532,7 +2532,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "883k69ipvy",
       "Integrity": "WDdSPm8PkBB6m24WC0ZTVdEiI7h+eU0DhL+h0WwkiRE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\panda.jpg"
     },
@@ -2553,7 +2553,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "usvl6pzv2q",
       "Integrity": "wrFZI6dg5M/X0FT3AvA82nop1pRvvssLp6/tySk0mkw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\paperbag2.jpg"
     },
@@ -2574,7 +2574,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "u5g1fcx9pm",
       "Integrity": "7ojcAQpWvxWjuXlxJrnXpkiPiaa/asEHZ2A0J57PN2g=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\paperstraw.jpg"
     },
@@ -2595,7 +2595,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "bmyhsmb1mw",
       "Integrity": "g23OjjdcuOocchNgS2wf4NLm36uJdOFjDCGxzvLJVjc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\pasta.jpg"
     },
@@ -2616,7 +2616,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "v5kifm1lr4",
       "Integrity": "bfJyZTd+zqebji4jHtF+dKddzXrnXCVVv+6duOGrotM=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\peacarrots.jpg"
     },
@@ -2637,7 +2637,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "rn8goaicml",
       "Integrity": "1y9xLH2GbcRY1aKkUBXQtChKVH7jimS6GyMeOXxDfLo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\peanut.jpg"
     },
@@ -2658,7 +2658,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "cr7wzk35rg",
       "Integrity": "uM2D/9DI+O/pZ/zlyFbBYX1UIplwtFlLgdFrSeBYQWs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\peeledgarlic.jpg"
     },
@@ -2679,7 +2679,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0q7uc1lccx",
       "Integrity": "aP0k7ODxWKGkF52S/L0RltJCZpjT1ok+7fms9RUC9fA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\persian.jpg"
     },
@@ -2700,7 +2700,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ya2ip02pjz",
       "Integrity": "1gpRJa04qBfweuSNPshF6afcsIZ14s45AnGMHbbBvg8=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\pickle.jpg"
     },
@@ -2721,7 +2721,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "nx530ht7e6",
       "Integrity": "y7QFej87H9Iplpcxh1fGF4UlbpZJu7or9Ox8b4nRJzU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\pinksugar.jpg"
     },
@@ -2742,7 +2742,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "jmcqlvz0pm",
       "Integrity": "lfwo3PI973fW8qfU4cseV/X2vKsV4XAd6Jxw7Q76dmI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\pixi.jpg"
     },
@@ -2763,7 +2763,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5ipweew5fc",
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\placeholder.txt"
     },
@@ -2784,7 +2784,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wndtcetbhi",
       "Integrity": "bP4nqH62fBp/c4PE7DCFSdHtsFV+DgE2HFRKaMIKCQk=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\plastic12.jpg"
     },
@@ -2805,7 +2805,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5ea64o4zld",
       "Integrity": "46H9hMWsJLygyvLz9VW+NeAG0vKQ7CCJ3C7teAKu3PA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\plastic18.jpg"
     },
@@ -2826,7 +2826,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "1tt2l3ceuv",
       "Integrity": "ZWTCadd5OrxQyQdVmSQR9MQL88S8JbdFqyxofnvvHA4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\plastic24.jpg"
     },
@@ -2847,7 +2847,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "kiv6sx0jjc",
       "Integrity": "9JpcDMYqdi+arej5nUMWZy2CpGvn0SHv/41s7yIxOR4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\poly.jpg"
     },
@@ -2868,7 +2868,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "02dspnv2ky",
       "Integrity": "GBZVtuA+n1kjNkalMzDopqTCa9cs4wSVQQhq9S8x4Ew=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkbackskinless.jpg"
     },
@@ -2889,7 +2889,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "gymfk0rzqz",
       "Integrity": "+CVbiKlXVbVQNHZFWf3fWhwkVV78nwp/4qa24CMR5bo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkbelly.jpg"
     },
@@ -2910,7 +2910,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "uzlv11yqzx",
       "Integrity": "GmaEjQ0nrOhqiNKsjAsaoGKf8O5QgfEuDzOjOr7p27A=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkccloin.jpg"
     },
@@ -2931,7 +2931,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "by6f9yuzp3",
       "Integrity": "DR6pZm+mJMzgJ3cD+RDnGyLtmSsGxz9K9GSdS60AxSs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkeggroll.jpg"
     },
@@ -2952,7 +2952,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0povggo1os",
       "Integrity": "xJ561BvNb6VG3JfvMaau2CyhXGGCP+5nDxsizBMOEQo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkfat.jpg"
     },
@@ -2973,7 +2973,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "x8ntvsqrfx",
       "Integrity": "DxZ7KMGVqr+yTmudebCblgxQP69/mzCawnAi+qCpK04=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\porkskin.jpg"
     },
@@ -2994,7 +2994,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "317snyn1nl",
       "Integrity": "lwGf+tTjWGRXNJNIo5/WJwzv7RZipah7DuKAJyckCUQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\preserved.jpg"
     },
@@ -3015,7 +3015,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "tyfxdmpt2w",
       "Integrity": "6xup9JIn6oS3GPfHyUDkbCkI2RLILnAW2n/LGY+xRGE=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\quart.jpg"
     },
@@ -3036,7 +3036,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "rpvrsng126",
       "Integrity": "sY4QDIbPGsS9N/pSW/PGpgjonwDr1rzvojzzKkOvSDQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\redbeans.jpg"
     },
@@ -3057,7 +3057,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "7xhugaei1f",
       "Integrity": "xXHVph11uKyB8HieXxAtdMAK4+FO+CEmF0EK5yffzJw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\redbellpepper.jpg"
     },
@@ -3078,7 +3078,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "5pe8yiej5d",
       "Integrity": "l3lYpg9UWFzoxfSFzHfW1hg00vJeSaswNU4vmXhMmYQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\redfine.jpg"
     },
@@ -3099,7 +3099,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wv6py4rwo0",
       "Integrity": "HJEaHmzziVw5zV8TKVIY58TEOMf39I4/Ec+e2x9yHRY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\redpeppercoarse.jpg"
     },
@@ -3120,7 +3120,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "3l2si4xnpk",
       "Integrity": "F67tv8kRJgBwl4RY43psz2NlsWZnFSRwxjL4tCx2t5Y=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ricestick.jpg"
     },
@@ -3141,7 +3141,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "zszw10bgsg",
       "Integrity": "Q872f4j9KaBul2soTcceo9xJjmAgRvVn8YBx2yH6d8c=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ricetogo.jpg"
     },
@@ -3162,7 +3162,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "3hj05z62ha",
       "Integrity": "aSyL5g6EEXOrBbb1LZrbJVt2mOfrphsybK/LfKmOF2s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\rinseaid.jpg"
     },
@@ -3183,7 +3183,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "w7npki1rik",
       "Integrity": "NNKLyJvKqOejyNT0dmvVOOC3WV258erhrRzXaRGNMOg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ronybill.jpg"
     },
@@ -3204,7 +3204,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "97kh97jdmj",
       "Integrity": "e+rYYgPog1rgVPAUOxE5k3LHMEnudIZmRDCkAs8LVS4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\saladoil.jpg"
     },
@@ -3225,7 +3225,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "leiav40jof",
       "Integrity": "U7WQXP0nCC37FjGsabgcCr1BlH2Q9+I1IrSqfspxeBc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\salt.jpg"
     },
@@ -3246,7 +3246,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ukncc0irln",
       "Integrity": "opECaPUS1ILPz7dtaVL+3Gg62mzt6FdqXKtIvHMpE70=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\saltablack.jpg"
     },
@@ -3267,7 +3267,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "iyzak8awzz",
       "Integrity": "iijLMZpyl71yV2GZtnbx6SSjHgwSy43RLIFzIRJMREM=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\saosing.jpg"
     },
@@ -3288,7 +3288,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "711lppmi4x",
       "Integrity": "hWqisbWLDMe73AG7DU/U0+WklycZsigRFT17oQbaxo0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\scallop.jpg"
     },
@@ -3309,7 +3309,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "v8rnu0jn0i",
       "Integrity": "r7cvcp4GY21wnXiS1+qSyWTPzkpe6WwG3Dow2hgNpeg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\scrubbinghandpadgreen6x9.jpg"
     },
@@ -3330,7 +3330,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "35qi3u5g0p",
       "Integrity": "178cqAccbKQD4uiM/9/86ECzPkXhfVC/UmkvI8jMPPY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\seatcover.jpg"
     },
@@ -3351,7 +3351,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "iohpc22lzj",
       "Integrity": "PqbcsYnTGPbDQ5CigcWQQkk2zQ4wIUVVGlDwbqGwV7s=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\sesamejam.jpg"
     },
@@ -3372,7 +3372,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "c9gq0q5khe",
       "Integrity": "MDPXOyex6KrDg7O1DuywG4Y1iOsOYJnjuECCiVcs/Fc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\sesameoil.jpg"
     },
@@ -3393,7 +3393,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "4ouu345wve",
       "Integrity": "xLkHZjsb9Xp+D/WjSacQQ496UsHARVPcbM0Q8DDh3f0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\sihuanpepper.jpg"
     },
@@ -3414,7 +3414,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "qf0w6qjz55",
       "Integrity": "ytfQGwLNXJzIQ8ORqi1Az++p9YlgQ0h1/+NOVE7vJW4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\silwarepacket.jpg"
     },
@@ -3435,7 +3435,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ri0q08wusw",
       "Integrity": "3drOYQoMqiD0e/bHnE6ZW45g0hT/q7mFKhS0UUeBYpo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\siracha.jpg"
     },
@@ -3456,7 +3456,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "cetse2snod",
       "Integrity": "LOZFEs6l9y+aZ32A6NxD5sZz8OpjkCvZ6TnvGEudiTY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\smallglove.jpg"
     },
@@ -3477,7 +3477,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ur2t990pr6",
       "Integrity": "SmDy+Aw7GeMT/x/0+Jg6yjl04kjjVZh2JkXlGOj2Xxo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\solutioncl.jpg"
     },
@@ -3498,7 +3498,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "bzsvfw91en",
       "Integrity": "iZzk4HJqKLTjsOcyj53xgGrmMEUsdvc4rGi4hAiFtsU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\soup16.jpg"
     },
@@ -3519,7 +3519,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "teume4zj82",
       "Integrity": "dZEfNl45jRY6r7VhrHqundyHQn4MWTJ+9hnqZMk9xf0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\soup32.jpg"
     },
@@ -3540,7 +3540,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "barvox5zds",
       "Integrity": "HRjo/aQLDSTjEfFvCvqQ21c+LuKF8rN4gDs14R/f5Gs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\soup8.jpg"
     },
@@ -3561,7 +3561,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "49idn0q6ma",
       "Integrity": "WMu9XTPdm0fGG2uFT+xxlJz7m4YPJUz8CztO95G2h+Y=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\soypastejepg.webp"
     },
@@ -3582,7 +3582,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "8pzeydy7pd",
       "Integrity": "PEKdGLixXykX7iQ05Db8JUEiX/u+oVuQRGp9VZVMTIQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\soysaucepackets.jpg"
     },
@@ -3603,7 +3603,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "fh7g4vkjuk",
       "Integrity": "4+mFvbe3Q/hwzMATSxKr0/DpNSxhr0xc0zKv2lCjg9k=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\spareribs.jpg"
     },
@@ -3624,7 +3624,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "qfrgjg6ykk",
       "Integrity": "5gGgJxX+atljsPisVvZNd39qYEXUlWCJk1rgunGp9MU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\spinachpowder.jpg"
     },
@@ -3645,7 +3645,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "qrpqjhljqi",
       "Integrity": "ChREhEzb/aDJNGmbEYe7TGkDwk8NHa7BH9IfsemUOgg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\spoon.jpg"
     },
@@ -3666,7 +3666,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "p1dkp9deqm",
       "Integrity": "87Pzz9oluQfxugxu5yP+q/3tr1pj8uz5PCBRo/2aOZs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\squid.jpg"
     },
@@ -3687,7 +3687,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0tschegp3o",
       "Integrity": "LPrlUcEANWP2rj8JMP2GV0PoMEtKAq8alEkD9nnGTvw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\staineless.jpg"
     },
@@ -3708,7 +3708,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "03j9321k2q",
       "Integrity": "3APv/hfRk39l77uyorUsDJsnlvr0jWSwHjAGEa412dc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\stainlessscrub.jpg"
     },
@@ -3729,7 +3729,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "whycej8zgu",
       "Integrity": "pHONYJXROU1K1gAE149MBhpyXZrSBRg4N229BObtVQI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\starlightsmint.jpg"
     },
@@ -3750,7 +3750,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "i1q4rq4bl5",
       "Integrity": "KgCSw1mC2W/B9MisDSFpOuoBpmuAvgWyk5B5R0MDxyo=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\sugar.jpg"
     },
@@ -3771,7 +3771,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "o4egy995ds",
       "Integrity": "eF6BLJP5Aqy76WdVvX7F7VRT6z4Ltly0Z+dmXBb9joU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\sweetcorn.jpg"
     },
@@ -3792,7 +3792,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "x1h66iwqay",
       "Integrity": "1WnkLbbAyKcDE2yYOrD0jHl0/+WE3kmRY7AXIrgFYj0=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\tapioca.jpg"
     },
@@ -3813,7 +3813,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "3o48zv6i0j",
       "Integrity": "o4hHuj6YzShlzGaRC2vb0xKx5LkGyJuh+N84Ct4QWuw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\tealipton.jpg"
     },
@@ -3834,7 +3834,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "waezu2nrhs",
       "Integrity": "KIn7XtvoQHEH/G/jmY0H6I/ZjDhx+HprwI7lA6WOlaU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\tigershrimp.jpg"
     },
@@ -3855,7 +3855,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "qo62kwl964",
       "Integrity": "ps2WKrQiG+L6Vj6i15bVNimC4X5WLfhjrMMD30oIJhs=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\togo8.jpg"
     },
@@ -3876,7 +3876,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "nuaske92iy",
       "Integrity": "ET7IyNUWecjFWMMGlAJjqBVKKc27s5BU5Tn1C32rBoc=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\toiletpaper.jpg"
     },
@@ -3897,7 +3897,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "35qi3u5g0p",
       "Integrity": "178cqAccbKQD4uiM/9/86ECzPkXhfVC/UmkvI8jMPPY=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\toiletseatcover.jpg"
     },
@@ -3918,7 +3918,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "sbclv3y5lm",
       "Integrity": "WAPyaKbuui+ECGyadiVipoX3kEtNc2E/cmtcjAD1lsU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\totole.jpg"
     },
@@ -3939,7 +3939,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "ojl61zwx0n",
       "Integrity": "lP8m8CpT2FsJsE64U9ldxuQtz0KUi/L7WgXvDt/LfPQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\trashcanbag.jpg"
     },
@@ -3960,7 +3960,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "uauds0lxps",
       "Integrity": "WvlsfptCZdL/Mqg3FU0MYos2joQD6T553bafXkp1C1E=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\urinal.jpg"
     },
@@ -3981,7 +3981,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "0y7nv7zj2w",
       "Integrity": "+HIVreX+Hax9ZhP0LVdRNaI1/rwC6jfWZ+FRFpY6MV4=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\vegetable.jpg"
     },
@@ -4002,7 +4002,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "fsytdkupjx",
       "Integrity": "oY2JdnrqE8qLEx7GGp38lrZY2wfCk56q0S3iPeKBvOU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\wheatflour.jpg"
     },
@@ -4023,7 +4023,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "057g4ysbap",
       "Integrity": "3KvzS/vHToKAMnFZf5hbqmMMZY39siXlSbKVZAKwb60=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\whitepepper.jpg"
     },
@@ -4044,7 +4044,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "kbx7eutjlk",
       "Integrity": "cDr01++5r2MKydRgYWTZw/auaU42yb/XeoytsQWl9pA=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\whitesugar.jpg"
     },
@@ -4065,7 +4065,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "hfvxwuqiqq",
       "Integrity": "XZXVjVB/wfNH7YSqlSD5G4XU/hXaXaOrULYgjNiJv2U=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\whitevinegar.jpg"
     },
@@ -4086,7 +4086,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "4f90j7fhpf",
       "Integrity": "sM6aBofsYyVor9OQ9W/+RtTxLgg/KR/aZep7G+SIZzQ=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\wonton.jpg"
     },
@@ -4107,7 +4107,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "pb278fliah",
       "Integrity": "e4SDe4m++jLHoOUjVitLhk4Imy/aKBk7mi/5uYzWzRg=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\woodcoffestirrer.jpg"
     },
@@ -4128,7 +4128,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "cvprpv76ee",
       "Integrity": "uEBDDABrUc9bLsswTp+yhfBta50lYcOqqLheU6sfyAU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\worcestershire.jpg"
     },
@@ -4149,7 +4149,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "1yhfhie5fi",
       "Integrity": "mWHf6f8t+uNgHXo3b7w7aF8Jd8iF4MEbdy9sCAtXU/w=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\yellow.jpg"
     },
@@ -4170,7 +4170,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "be2gwqhk89",
       "Integrity": "I0ittM0V/a4y+fwDGQ7zejQXjUb+qnfN7C/JloScIPk=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\yellowcandy.jpg"
     },
@@ -4191,7 +4191,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "wt4ez58usc",
       "Integrity": "DLnfS8XMZo+LtGa0tbS24DzWSXntiM5qhi7AjvdX3wU=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\yellowonion.jpg"
     },
@@ -4212,7 +4212,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "h4ybde6smb",
       "Integrity": "f/lJE4pxa5+R0tdPORAC92IufdYma6UF7WNn4tJPono=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\yellowsugar.jpg"
     },
@@ -4233,7 +4233,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "lntpj26gp8",
       "Integrity": "nwJKtK4WVCvr2EfkbsYNitKXtkAWI8vWnfbtl00wFfw=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\yeos.jpg"
     },
@@ -4254,7 +4254,7 @@
       "AssetTraitValue": "",
       "Fingerprint": "bksb4ric35",
       "Integrity": "W1Xfccp93fMcBxpb5IhA+m3pJZ71nFAmU0ycpDpGzUI=",
-      "CopyToOutputDirectory": "Always",
+      "CopyToOutputDirectory": "fly deploy",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\zuch.jpg"
     }

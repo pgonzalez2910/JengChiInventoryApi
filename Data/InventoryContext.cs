@@ -1,16 +1,17 @@
-﻿using Microsoft.EntityFrameworkCore;
-using JengChiInventoryApi.Models;
+﻿    using Microsoft.EntityFrameworkCore;
+    using JengChiInventoryApi.Models;
 
-namespace JengChiInventoryApi.Data
-{
-    public class InventoryContext : DbContext
+    namespace JengChiInventoryApi.Data
     {
-        public InventoryContext(DbContextOptions<InventoryContext> options)
-            : base(options)
+        public class InventoryContext : DbContext
         {
-        }
+            public InventoryContext(DbContextOptions<InventoryContext> options)
+                : base(options)
+            {
+            }
 
-        public DbSet<Product> Products { get; set; }
-        public DbSet<InventoryScan> InventoryScans { get; set; } // Add this line
+            public DbSet<Product> Products { get; set; }
+            public DbSet<InventoryScan> InventoryScans { get; set; }
+            // Add more DbSets if needed
+        }
     }
-}

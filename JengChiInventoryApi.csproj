@@ -21,610 +21,610 @@
 
   <ItemGroup>
     <Content Update="wwwroot\Images\1001.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\1002.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\1003.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\10x6x20.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\12x7x23.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\13gallon.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\16ozcup.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\16ozlid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\1ozcup.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\1ozlids.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\2ozcups.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\2ozlids.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\4150shrimp.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\8x4x16.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\8x8x1.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\aa.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\aaa.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\acid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\adolphous.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\airspray.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\alltrump.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\babybambo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bamboosliced.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bamboostrip.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bean.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\beefflanksteak.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\beefshank.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\beetpowder.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bill.pdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bleach.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\blue.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\bluesugar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\broccoli.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\carrot.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\carrotpowder.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\cashew.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chickenbone.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chickenbreast.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chickenlegmeat.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chiligarlicsauce.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chiliring.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chineseeggplant.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chopstick.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\chxlegmeat.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\clorox.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\clove.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\coconutmilk.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\condesate.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\cornstrach.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\curry.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\dawn.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\dbateries.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\delisheet.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\driedanisse.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\driedblackbeans.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\driedclove.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\driedsweeded.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\duckheadless.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ducksauce.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\fabuloso.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\floorcleaner.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\fork.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\freshmint.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\frillpicks.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\fryoil.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\fullpanlids.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\fullpantray1.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\gallon.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\garlicflakes.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\garlicminced.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\gelatine.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ginger.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\greenbeans.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\greenbellpepper.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\greencabbage.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\greenonions.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\hairnet.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\halfpanlid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\halfpantray.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\handsoap.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\happyface8x8x1.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\heavyallumium.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\hoisensauce.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\hoisensaucecan.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\hothotbar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\idaho.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\jalapeno.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\jazminetea.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\jengchilogo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ketchup.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\kikoman.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\kingarthur.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\kirkland.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\kokuho.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ladyallen.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\lamb.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\largeeggs.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\largeglove.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\lemon.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\lime.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\lowtemp.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\maeploy.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\maggie.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\maltose.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mayo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mediumglove.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\michu.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mushroom.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mushroomsliced.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mussel.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\mustardsauce.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\napa.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\napkin.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\nova350.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\oblonglid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\oblongtray.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\orangeskin.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\organicgreentea.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\panblaster.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\panda.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\paperbag2.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\paperstraw.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\pasta.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\peacarrots.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\peanut.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\peeledgarlic.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\persian.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\pickle.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\pinksugar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\pixi.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\placeholder.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\plastic12.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\plastic18.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\plastic24.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\poly.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkbackskinless.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkbelly.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkccloin.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkeggroll.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkfat.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\porkskin.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\preserved.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\quart.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\redbeans.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\redbellpepper.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\redfine.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\redpeppercoarse.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ricestick.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ricetogo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\rinseaid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\ronybill.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\saladoil.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\salt.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\saltablack.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\saosing.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\scallop.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\scrubbinghandpadgreen6x9.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\seatcover.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\sesamejam.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\sesameoil.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\sihuanpepper.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\silwarepacket.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\siracha.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\smallglove.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\solutioncl.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\soup16.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\soup32.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\soup8.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\soypastejepg.webp">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\soysaucepackets.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\spareribs.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\spinachpowder.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\spoon.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\squid.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\staineless.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\stainlessscrub.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\starlightsmint.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\sugar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\sweetcorn.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\tapioca.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\tealipton.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\tigershrimp.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\togo8.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\toiletpaper.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\toiletseatcover.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\totole.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\trashcanbag.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\urinal.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\vegetable.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\wheatflour.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\whitepepper.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\whitesugar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\whitevinegar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\wonton.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\woodcoffestirrer.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\worcestershire.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\yellow.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\yellowcandy.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\yellowonion.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\yellowsugar.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\yeos.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\Images\zuch.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>fly deploy</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 
