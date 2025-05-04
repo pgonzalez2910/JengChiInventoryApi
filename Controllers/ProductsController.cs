@@ -48,5 +48,26 @@ namespace JengChiInventoryApi.Controllers
             var image = System.IO.File.ReadAllBytes(file);
             return File(image, contentType);
         }
+        [HttpPost("update-onhand")]
+        public IActionResult UpdateOnHand([FromBody] Product updatedProduct)
+        {
+            var product = _context.Products.FirstOrDefault(p => p.ItemNumber == updatedProduct.ItemNumber);
+            if (product == null)
+                return NotFound("Product not found.");
+
+            product.OnHand = updatedProduct.OnHand;
+            _context.SaveChanges();
+
+            return Ok("OnHand updated.");
+        }
+        [HttpGet]
+        public IActionResult GetAllProducts()
+        {
+            var products = _context.Products.ToList();
+            return Ok(products);
+        }
+
+
     }
-    }
+
+}

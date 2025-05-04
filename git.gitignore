@@ -1,6 +1,13 @@
+# Ignore folders
 .vs/
 bin/
 obj/
+wwwroot/Images/
+
+# Ignore user settings
 *.user
 *.suo
-*.pdb
+
+# Ignore log and cache
+*.log
+*.vsidx

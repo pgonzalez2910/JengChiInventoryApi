@@ -17,6 +17,16 @@
   },
   {
     "ContainingType": "JengChiInventoryApi.Controllers.ProductsController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JengChiInventoryApi.Controllers.ProductsController",
     "Method": "GetProductByBarcode",
     "RelativePath": "api/Products/barcode/{barcode}",
     "HttpMethod": "GET",
@@ -43,7 +53,7 @@
   },
   {
     "ContainingType": "JengChiInventoryApi.Controllers.ProductsController",
-    "Method": "GetProductImage",
+    "Method": "GetImage",
     "RelativePath": "api/Products/image",
     "HttpMethod": "GET",
     "IsController": true,
@@ -53,6 +63,22 @@
         "Name": "filename",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JengChiInventoryApi.Controllers.ProductsController",
+    "Method": "UpdateOnHand",
+    "RelativePath": "api/Products/update-onhand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedProduct",
+        "Type": "JengChiInventoryApi.Models.Product",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
